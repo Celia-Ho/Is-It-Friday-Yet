@@ -1,3 +1,6 @@
+<!-- Is It Friday Yet? -->
+
+
 <!DOCTYPE html>
 <html>
   <head>
